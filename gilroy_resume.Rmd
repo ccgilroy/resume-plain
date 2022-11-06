@@ -1,0 +1,50 @@
+---
+output: 
+  pdf_document:
+    latex_engine: xelatex
+linkcolor: blue
+header-includes:
+  - \pagenumbering{gobble}
+---
+
+# Connor Gilroy\vspace{-6pt}
+
+email: ccgilroy@gmail.com; web: https://ccgilroy.com
+
+**Summary:** Computational social scientist & PhD candidate, with 7+ years of experience analyzing text, spatial, network, and survey data. I have broad skills in statistics, programming, and written and visual communication of analytic insights. My dissertation research uses NLP methods and survey data to explain variations in expressions and experiences of community across digital and location-based contexts.
+
+**Skills:** programming (R, Python, SQL, and Stan), data collection (webscraping and webcrawling, geocoding, APIs), databases (Hive, PostgreSQL), surveys (stratified survey design and weighting), statistical modeling (GLMs, hierarchical models, regularized regression, random forests, Bayesian statistics), text analysis (topic modeling, word embeddings), data visualization (ggplot2, matplotlib, shiny)\vspace{-6pt}
+
+## Employment
+
+**University of Washington.** 2015 -- present  
+*Graduate Research Assistant*  
+Analyzed Twitter networks of US homeless care organizations, built a web crawler and a PostgreSQL database to scrape and store text data from nonprofit and government webpages (with Zack Almquist); built an agent-based network model of public opinion change (with Katherine Stovel)\vspace{3pt}  
+*Graduate Teaching Assistant & Instructor*  
+Taught sections and courses including sociological theory, data and society (undergraduate), social statistics, data science and population processes, Bayesian statistics for the social sciences (graduate)  
+
+**Meta.** summer 2020, 2021, 2022  
+*Data Science Intern* (2022)  
+Analyzed feed engagement with reshared Facebook Groups content, built a data pipeline to create a new experimental metric, and reanalyzed a collection of experiments to quantify tradeoffs between types of content\vspace{3pt}    
+*User Experience Research Intern* (2021, 2020)  
+Designed, fielded, and analyzed a complex survey of job seeker needs and satisfaction (2021); designed and conducted quantitative studies (behavioral log data analysis + survey) of factors driving initial participation in new online communities (2020)  
+
+**The World Bank Group.** 2020  
+*Consultant, Survey Data Analysis*  
+Created statistical models and data visualizations of gender-based disparities in Central Asia  
+
+**Epic Systems Corporation.** 2013 -- 2015  
+*Quality Assurance*  
+Automated and manual software testing for web APIs and enterprise healthcare software\vspace{-6pt}
+
+## Education
+
+2023 (expected). PhD, Sociology, University of Washington  
+2018. MA, Sociology. University of Washington  
+2013. BA, Biology and Geophysical Sciences,  University of Chicago\vspace{-6pt}
+
+## Selected Publications 
+
+**Gilroy, Connor** and Ridhi Kashyap. 2021. "Digital Traces of Sexualities: Understanding the Salience of Sexual Identity through Disclosure on Social Media." *Socius* 7: 1--18. [doi: 10.1177/23780231211029499](https://doi.org/10.1177/23780231211029499)
+
+Filippova, Anna, **Connor Gilroy**, Ridhi Kashyap, Antje Kirchner, Allison C. Morgan, Kivan Polimis, Adaner Usmani, and Tong Wang. 2019. "Humans in the Loop: Incorporating Expert and Crowdsourced Knowledge for Predictions using Social Survey Data." *Socius* 5: 1--15. [doi: 10.1177/2378023118820157](https://doi.org/10.1177/2378023118820157). (corresponding author)
