@@ -15,36 +15,30 @@ email: ccgilroy@gmail.com; web: https://ccgilroy.com
 
 **Skills:** programming (R, Python, SQL, and Stan), data collection (webscraping and webcrawling, geocoding, APIs), databases (Hive, PostgreSQL), surveys (stratified survey design and weighting), statistical modeling (GLMs, hierarchical models, regularized regression, random forests, Bayesian statistics), text analysis (topic modeling, word embeddings), data visualization (ggplot2, matplotlib, shiny)\vspace{-6pt}
 
-## Employment
+## Employment\vspace{-6pt}
 
 **University of Washington.** 2015 -- present  
-*Graduate Research Assistant*  
-Analyzed Twitter networks of US homeless care organizations, built a web crawler and a PostgreSQL database to scrape and store text data from nonprofit and government webpages (with Zack Almquist); built an agent-based network model of public opinion change (with Katherine Stovel)\vspace{3pt}  
-*Graduate Teaching Assistant & Instructor*  
-Taught sections and courses including sociological theory, data and society (undergraduate), social statistics, data science and population processes, Bayesian statistics for the social sciences (graduate)  
+*Graduate Research Assistant.*  Analyzed Twitter networks of US homeless care organizations; built a web crawler and a PostgreSQL database to collect and store text data from nonprofit and government webpages (with Zack Almquist). Built an agent-based network model of public opinion change (with Katherine Stovel)\vspace{3pt}  
+*Graduate Teaching Assistant & Instructor.* Taught sections and courses including sociological theory, data and society (undergraduate); social statistics, data science and population processes, Bayesian statistics for the social sciences (graduate); digital demography and word embeddings for social sciences (workshops)  
 
 **Meta.** summer 2020, 2021, 2022  
-*Data Science Intern* (2022)  
-Analyzed feed engagement with reshared Facebook Groups content, built a data pipeline to create a new experimental metric, and reanalyzed a collection of experiments to quantify tradeoffs between types of content\vspace{3pt}    
-*User Experience Research Intern* (2021, 2020)  
-Designed, fielded, and analyzed a complex survey of job seeker needs and satisfaction (2021); designed and conducted quantitative studies (behavioral log data analysis + survey) of factors driving initial participation in new online communities (2020)  
+*Data Science Intern.* Analyzed feed engagement with reshared Facebook Groups content, presented insights to the Director of Data Science for Communities, built a data pipeline to create a new metric, reanalyzed a collection of experiments to quantify tradeoffs between types of content, and launched a new experiment to assess incremental value of reshared content (2022, Communities Ecosystem team)\vspace{3pt}    
+*Quantitative User Experience Research Intern.* Designed and conducted two studies (log data analysis with random forest models, behaviorally-targeted followup survey) of factors driving initial participation in new online communities (2020, Community Creation team). Designed, fielded, and analyzed a complex stratified survey of job seeker needs and satisfaction; wrote a widely-referenced technical guide to creating inverse probability weights for nonresponse using an internal Python tool; evaluated quality of an external vendor's missing data imputation for a sensitive survey question (2021, Commerce Ecosystem team)  
 
 **The World Bank Group.** 2020  
-*Consultant, Survey Data Analysis*  
-Created statistical models and data visualizations of gender-based disparities in Central Asia  
+*Consultant, Survey Data Analysis.* Created statistical models and data visualizations of gender-based disparities in Central Asia; wrote reproducible R pipeline for updating reports with new waves of survey data  
 
 **Epic Systems Corporation.** 2013 -- 2015  
-*Quality Assurance*  
-Automated and manual software testing for web APIs and enterprise healthcare software\vspace{-6pt}
+*Quality Assurance.* Automated and manual software testing for web APIs and enterprise healthcare software\vspace{-6pt}
 
-## Education
+## Education\vspace{-6pt}
 
 2023 (expected). PhD, Sociology, University of Washington  
 2018. MA, Sociology. University of Washington  
 2013. BA, Biology and Geophysical Sciences,  University of Chicago\vspace{-6pt}
 
-## Selected Publications 
+## Selected Publications\vspace{-6pt}
 
 **Gilroy, Connor** and Ridhi Kashyap. 2021. "Digital Traces of Sexualities: Understanding the Salience of Sexual Identity through Disclosure on Social Media." *Socius* 7: 1--18. [doi: 10.1177/23780231211029499](https://doi.org/10.1177/23780231211029499)
 
-Filippova, Anna, **Connor Gilroy**, Ridhi Kashyap, Antje Kirchner, Allison C. Morgan, Kivan Polimis, Adaner Usmani, and Tong Wang. 2019. "Humans in the Loop: Incorporating Expert and Crowdsourced Knowledge for Predictions using Social Survey Data." *Socius* 5: 1--15. [doi: 10.1177/2378023118820157](https://doi.org/10.1177/2378023118820157). (corresponding author)
+Filippova, Anna, **Connor Gilroy**, Ridhi Kashyap, Antje Kirchner, Allison C. Morgan, Kivan Polimis, Adaner Usmani, and Tong Wang. 2019. "Humans in the Loop: Incorporating Expert and Crowdsourced Knowledge for Predictions using Social Survey Data." *Socius* 5: 1--15. [doi: 10.1177/2378023118820157](https://doi.org/10.1177/2378023118820157). (corresponding author; responsible for ML modeling and computational reproducibility)
