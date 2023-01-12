@@ -4,16 +4,29 @@ output:
     latex_engine: xelatex
 linkcolor: blue
 header-includes:
+  - \usepackage{fontawesome}
   - \pagenumbering{gobble}
 ---
 
 # Connor Gilroy\vspace{-6pt}
 
-email: ccgilroy@gmail.com; web: https://ccgilroy.com
+\faEnvelope\ ccgilroy@gmail.com;
+\faGlobe\ [ccgilroy.com](https://ccgilroy.com);
+\faGithub\ [github.com/ccgilroy](https://github.com/ccgilroy);
+\faLinkedin\ [ccgilroy](https://www.linkedin.com/in/ccgilroy/);
+\faPhone\ 731-225-0001
 
 **Summary:** Computational social scientist & PhD candidate, with 7+ years in research and data science. I create new analytic insights by linking data across multiple domains -- including survey, behavioral, text, spatial, and network data -- and building statistical/machine learning models for explanation and prediction.
 
 **Skills:** programming (R, Python, SQL, and Stan), data collection (webscraping and webcrawling, geocoding, APIs), databases (Hive, PostgreSQL), surveys (stratified survey design and weighting), statistical modeling (GLMs, hierarchical models, regularized regression, random forests, spatial autocorrelation, Bayesian statistics), text analysis (topic modeling, word embeddings), data visualization (ggplot2, matplotlib, altair)\vspace{-6pt}
+
+## Education\vspace{-6pt}
+
+2023 (expected). PhD, Sociology, University of Washington  
+2018. MA, Sociology. University of Washington  
+2013. BA, Biology and Geophysical Sciences,  University of Chicago
+
+Certificate (2019): Special Concentration in Social Statistics\vspace{-6pt}
 
 ## Employment\vspace{-6pt}
 
@@ -61,10 +74,4 @@ Filippova, Anna, **Connor Gilroy**, Ridhi Kashyap, Antje Kirchner, Allison C. Mo
 
 - Built a webscraper to collect gay bar addresses; geocoded addresses within Census tracts to identify gayborhoods and join with Census demographic data; matched via Mahalanobis distance to create synthetic control neighborhoods; and statistically compared trajectories of change in gayborhoods to matched neighborhoods (with linear regression and multilevel models) to show that gayborhoods do not exhibit a common or universal pattern of change.
 
-## Education\vspace{-6pt}
 
-2023 (expected). PhD, Sociology, University of Washington  
-2018. MA, Sociology. University of Washington  
-2013. BA, Biology and Geophysical Sciences,  University of Chicago
-
-Certificate (2019): Special Concentration in Social Statistics
