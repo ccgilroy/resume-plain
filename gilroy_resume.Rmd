@@ -31,7 +31,7 @@ Certificate (2019): Special Concentration in Social Statistics\vspace{-6pt}
 ## Employment\vspace{-6pt}
 
 **University of Washington.** 2015 -- present  
-*Graduate Research Assistant.* Built a Python web crawler and a PostgreSQL database to collect and store text data from nonprofit and government webpages; analyzed Twitter networks in R and SQL to uncovers long-distance ties of local US homeless care organizations
+*Graduate Research Assistant.* Built a Python web crawler and a PostgreSQL database to collect and store text data from nonprofit and government webpages; analyzed Twitter networks in R and SQL to uncover long-distance ties of local US homeless care organizations
 
 *Graduate Teaching Assistant & Instructor.* Taught technical topics in R, Python, Stata, and Stan to audiences of diverse skill levels, including data and society (undergraduate); social statistics, data science and population processes, Bayesian statistics for the social sciences (graduate); digital demography and word embeddings for social sciences (workshops)    
 
