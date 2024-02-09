@@ -10,27 +10,33 @@ header-includes:
 
 # Connor Gilroy\vspace{-6pt}
 
-\faEnvelope\ cgilroy@uw.edu;
+\faEnvelope\ ccgilroy@gmail.com;
 \faGlobe\ [ccgilroy.com](https://ccgilroy.com);
 \faGithub\ [github.com/ccgilroy](https://github.com/ccgilroy);
 \faLinkedin\ [ccgilroy](https://www.linkedin.com/in/ccgilroy/);
 \faPhone\ 731-225-0001
 
-**Summary:** Computational social scientist & PhD candidate, with 7+ years in research and data science. I create new analytic insights by linking data across multiple domains -- including survey, behavioral, text, spatial, and network data -- and building statistical/machine learning models for explanation and prediction.
+**Summary:** Computational social scientist & sociology PhD, with 8+ years in research and data science. I create new analytic insights by linking data across multiple domains -- including survey, behavioral, text, spatial, and network data -- and building statistical/machine learning models for explanation and prediction.
 
 **Skills:** programming (R, Python, SQL, and Stan), data collection (webscraping and webcrawling, geocoding, APIs), databases (Hive, PostgreSQL), surveys (stratified survey design and weighting), statistical modeling (GLMs, hierarchical models, regularized regression, random forests, spatial autocorrelation, Bayesian statistics), text analysis (topic modeling, word embeddings), data visualization (ggplot2, matplotlib, altair)\vspace{-6pt}
 
 ## Education\vspace{-6pt}
 
-2023 (expected). PhD, Sociology, University of Washington  
-2018. MA, Sociology, University of Washington  
-2013. BA, Biology and Geophysical Sciences, University of Chicago
+2023\. PhD, Sociology, University of Washington  
+2018\. MA, Sociology, University of Washington  
+2013\. BA, Biology and Geophysical Sciences, University of Chicago
 
 Certificate (2019): Special Concentration in Social Statistics\vspace{-6pt}
 
 ## Employment\vspace{-6pt}
 
-### **University of Washington** (2015 -- present)\vspace{-12pt}  
+### **Blue Rose Research** (2023 -- present)\vspace{-12pt}
+
+#### *Machine Learning Data Scientist.*
+
+Builds Bayesian models for political forecasting.
+
+### **University of Washington** (2015 -- 2023)\vspace{-12pt}  
 
 #### *Graduate Research Assistant.* 
 
@@ -77,7 +83,7 @@ Filippova, Anna, **Connor Gilroy**, Ridhi Kashyap, Antje Kirchner, Allison C. Mo
 ## Projects\vspace{-6pt}
 
 "Expressions of Community: Understanding Variations in Community through LGBTQ Experiences."  
-(Dissertation)\vspace{-12pt}
+([Dissertation](https://digital.lib.washington.edu/researchworks/handle/1773/50562))\vspace{-12pt}
 
 - Three interrelated projects: 1) link location characteristics to survey responses to show how density and prevalence of same-sex couples contribute to a sense of community for LGBTQ people; 2) compare a locally-trained word embedding model to a generic GloVe model to show how "community" takes on one specific meaning in an LGBTQ Usenet group, as opposed to the dual meanings encoded in the GloVe model (which I disentangle with PCA); 3) connect conversational interaction network features from subreddits to GloVe-derived measures of "community talk".
 
